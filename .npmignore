@@ -1,3 +1,4 @@
 tests
 webpack.config.js
 .travis.yml
+node_modules
